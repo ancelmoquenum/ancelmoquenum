@@ -1,7 +1,4 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,python,docker,git)](https://skillicons.dev)
-![Skills](https://skillicons.dev/icons?i=js,ts,react,vue,python,docker,figma&theme=light&perline=7)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,python,docker" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,c,kanban,trello,docker,git&theme=light&perline=7)](https://skillicons.dev)
+
