@@ -6,16 +6,6 @@ Hey There! 👋
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,ubuntu,windows,apple&perline=13)
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logoColor=black)
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logoColor=white)
-
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?logoColor=black)
-
-![Agile](https://img.shields.io/badge/Agile-555)
-
 Contact ?
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cv.ancelmoquenum.com-222?logo=googlechrome&logoColor=white)](https://cv.ancelmoquenum.com)
