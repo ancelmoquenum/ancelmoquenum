@@ -2,7 +2,7 @@ Hey There! 👋
 
 Élève ingénieur
 
-![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,php,js,html,css,bootstrap,nodejs,express,laravel,mysql&perline=13)
+![My Skills](https://skillicons.dev/icons?i=java,c,cpp,php,html,css,bootstrap,mysql&perline=13)
 
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,ubuntu,windows,apple&perline=13)
 
@@ -16,7 +16,7 @@ Hey There! 👋
 
 ![Agile](https://img.shields.io/badge/Agile-555)
 
-COntAcT ?
+Contact ?
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cv.ancelmoquenum.com-222?logo=googlechrome&logoColor=white)](https://cv.ancelmoquenum.com)
 
